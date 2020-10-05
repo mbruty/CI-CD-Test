@@ -5,3 +5,6 @@ workflows:
   node-tests:
     jobs:
       - node/test
+notify:
+  webhooks:
+    - url: https://outlook.office.com/webhook/b10bec35-63c9-4c66-8ebc-2ea387d602bc@5437e7eb-83fb-4d1a-bfd3-bb247e061bf1/CircleCI/cab55946927b420c8047d985ca0b6e03/48572203-9657-49f1-a944-e6ec4132634a
