@@ -1,1 +1,4 @@
-module.exports = () => true;
+module.exports = {
+  test: () => true,
+  helloWorldTest: () => "Hello World!"
+}
