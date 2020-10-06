@@ -1,4 +1,4 @@
 module.exports = {
   test: () => true,
-  helloWorldTest: () => "Hello World!"
+  helloWorldTest: () => "Hello World"
 }
